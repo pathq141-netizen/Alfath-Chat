@@ -62,7 +62,7 @@ const LandingPage = () => {
           <div className="mb-8 flex justify-center">
             <img
               src="/images/convayto-logo.png"
-              alt="Convayto Logo"
+              alt="Alfath Logo"
               className="h-24 w-auto sm:h-32"
             />
           </div>
@@ -104,7 +104,7 @@ const LandingPage = () => {
           <div className="mt-12 sm:mt-16">
             <img
               src="/images/convayto-mockup.jpg"
-              alt="Convayto Mockup"
+              alt="Alfath Mockup"
               className="mx-auto w-full max-w-sm rounded-lg shadow-lg sm:max-w-md sm:shadow-xl md:max-w-2xl md:rounded-xl md:shadow-2xl"
             />
           </div>
@@ -166,7 +166,7 @@ const LandingPage = () => {
           <div className="grid gap-12 sm:grid-cols-2 lg:gap-16">
             <div>
               <h2 className="mb-6 text-3xl font-bold sm:text-4xl">
-                Why Choose Convayto?
+                Why Choose AlfathChat?
               </h2>
               <ul className="space-y-4">
                 {[
@@ -190,7 +190,7 @@ const LandingPage = () => {
                   <div className="text-6xl text-white">💬</div>
                 </div>
                 <p className="text-lg font-semibold">
-                  Join thousands of users chatting on Convayto
+                  Join thousands of users chatting on Alfath & Donway
                 </p>
               </div>
             </div>
@@ -292,12 +292,12 @@ const LandingPage = () => {
                     href="/about"
                     className="hover:text-textPrimary dark:hover:text-textPrimary-dark"
                   >
-                    About Convayto
+                    About Alfath
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://github.com/CodeWithAlamin/Convayto"
+                    href="https://github.com"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-textPrimary dark:hover:text-textPrimary-dark"
@@ -333,22 +333,22 @@ const LandingPage = () => {
               <ul className="text-textSecondary dark:text-textSecondary-dark space-y-2 text-sm">
                 <li>
                   <a
-                    href="https://x.com/CodeWithAlamin"
+                    href="https://wa.me/62895321551449"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-textPrimary dark:hover:text-textPrimary-dark"
                   >
-                    Twitter
+                    WhatsApp
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/CodeWithAlamin"
+                    href="https://www.tiktok.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-textPrimary dark:hover:text-textPrimary-dark"
                   >
-                    LinkedIn
+                    tiktok
                   </a>
                 </li>
               </ul>
@@ -356,7 +356,7 @@ const LandingPage = () => {
           </div>
           <div className="text-textSecondary dark:text-textSecondary-dark mt-8 border-t border-bgSecondary pt-8 text-center text-sm dark:border-bgSecondary-dark">
             <p>
-              © {new Date().getFullYear()} Convayto. All rights reserved.
+              © {new Date().getFullYear()} Alfath. All rights reserved.
               Licensed under Apache 2.0
             </p>
           </div>
