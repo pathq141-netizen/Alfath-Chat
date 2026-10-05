@@ -1,6 +1,6 @@
 // Chage the production/local URL according to the environment
 export const REDIRECT_URL_LOCAL = "http://localhost:3000";
-export const REDIRECT_URL_PRODUCTION = "https://convayto.vercel.app";
+export const REDIRECT_URL_PRODUCTION = "https://alfath-chat.web.id";
 
 export const getRedirectUrl = () => {
   return import.meta.env.MODE === "production"
@@ -9,9 +9,9 @@ export const getRedirectUrl = () => {
 };
 
 // App settings
-export const APP_NAME = "Convayto";
+export const APP_NAME = "Alfath";
 export const APP_VERSION = "v1.0.4";
-export const DEFAULT_BIO = `Hey there! I'm using ${APP_NAME}!`;
+export const DEFAULT_BIO = `tidak dapat bicara? gunakan: ${APP_NAME}!`;
 export const DARK_THEME = "dark";
 export const LIGHT_THEME = "light";
 export const LOCAL_STORAGE_KEY = "theme";
