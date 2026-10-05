@@ -4,12 +4,12 @@ function Copyright() {
       <p className="text-center opacity-80">
         © Copyright by{" "}
         <a
-          href="https://www.linkedin.com/in/CodeWithAlamin"
+          href="https://whatsapp.com/channel/0029VbFXLg96LwHhyiQxLy1a"
           target="_blank"
           rel="noreferrer"
           className="text-blue-500 underline"
         >
-          Alamin
+          AlfathChat
         </a>
         . Licensed under the Apache License 2.0. Contributions welcome!
       </p>
