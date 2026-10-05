@@ -23,8 +23,8 @@ export const MIN_USERNAME_LENGTH = 4;
 export const MAX_USERNAME_LENGTH = 30;
 export const MIN_PASSWORD_LENGTH = 6;
 export const MINIMUM_SEARCH_LENGTH = 2;
-export const MAX_PREFETCHED_CONVERSATIONS = 10;
-export const MAX_MESSAGES_PER_PAGE = 25;
+export const MAX_PREFETCHED_CONVERSATIONS = 100;
+export const MAX_MESSAGES_PER_PAGE = 10000;
 
 // Regex patterns for validation
 export const USERNAME_REGEX = /^[a-z0-9_-]+$/;
